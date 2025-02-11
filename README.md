@@ -1,5 +1,5 @@
 # StudyVerse - EdTech Platform
-:rocket: [Link to website][https://StudyVerse-frontend.vercel.app/]
+:rocket: [Link to website][[StudyVerse](https://study-verse-sigma.vercel.app/)]
 
 
 ![Main Page](Images/mainpage.jpeg)
