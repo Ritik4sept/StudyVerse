@@ -1,1 +1,1 @@
-# StudyVerse
+# StudyNotion Edtech Project
